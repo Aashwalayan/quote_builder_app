@@ -1,16 +1,14 @@
-# quote_builder
+# Quote Builder App (Flutter)
 
-A new Flutter project.
+A Flutter-based application that allows users to create professional quotes by filling out client details, adding multiple items, choosing tax modes, and previewing the final summary.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Input form for client details and line items  
+- Automatic subtotal and tax calculation (inclusive and exclusive modes)  
+- Multi-currency support  
+- Quote preview before saving or exporting  
+- Simple and responsive interface  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
